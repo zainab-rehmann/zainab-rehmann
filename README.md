@@ -9,7 +9,7 @@ I'm a Software Engineering student at Riphah International University with a pas
 - 💻 Interested in **Backend Development, Web Development, and AI**
 - 🚀 Building projects that solve real-world problems
 - 🎯 Looking for **Internships, Open Source Contributions, and Freelance Opportunities**
-- 📫 Reach me at: **your.email@example.com**
+- 📫 Reach me at: **zainabrehman5602@gmail.com**
 
 ---
 
@@ -35,7 +35,7 @@ I'm a Software Engineering student at Riphah International University with a pas
 
 ### 📌 Featured Projects
 
-🦷 **[BrightSmile Dentist Website](https://github.com/zainab-rehmann/brightsmile-dentist)**
+🦷 **[BrightSmile Dentist Website]([https://github.com/zainab-rehmann/brightsmile-dentist](https://dentistclinic-kohl.vercel.app/))**
 A modern, responsive landing page for a dental clinic with a clean UI and smooth user experience.
 `HTML` `CSS` `JavaScript`
 
