@@ -35,11 +35,11 @@ I'm a Software Engineering student at Riphah International University with a pas
 
 ### 📌 Featured Projects
 
-🦷 **[BrightSmile Dental Clinic](https://github.com/zainab-rehmann/brightsmile-dentist)** — [🔗 Live Demo](https://dentistclinic-kohl.vercel.app/)
+🦷 **[BrightSmile Dental Clinic](https://github.com/zainab-rehmann/aurora-smile-co)** — [🔗 Live Demo](https://dentistclinic-kohl.vercel.app/)
 A modern, responsive dental clinic website with appointment booking, doctor profiles, services, and testimonials sections.
 `HTML` `CSS` `JavaScript`
 
-🔄 **[Sync Space](https://github.com/zainab-rehmann/sync-space)** — [🔗 Live Demo](https://sync-space-sage.vercel.app/)
+🔄 **[Sync Space](https://github.com/zainab-rehmann/SyncSpace-)** — [🔗 Live Demo](https://sync-space-sage.vercel.app/)
 A collaborative workspace application built for seamless real-time syncing and productivity.
 `JavaScript` `React`
 
@@ -47,7 +47,7 @@ A collaborative workspace application built for seamless real-time syncing and p
 An enterprise-grade image processing SaaS application with a modern, professional UI.
 `JavaScript` `React`
 
-🤟 **[Sign Language Translator](https://github.com/zainab-rehmann/sign-language-translator)**
+🤟 **[Sign Language Translator](https://github.com/zainab-rehmann/signspeak-asl)**
 A machine learning application that converts sign language into text using Python, MediaPipe, TensorFlow, and Streamlit.
 `Python` `MediaPipe` `TensorFlow` `Streamlit`
 
