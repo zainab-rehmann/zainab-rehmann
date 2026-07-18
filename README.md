@@ -51,15 +51,11 @@ An enterprise-grade image processing SaaS application with a modern, professiona
 A machine learning application that converts sign language into text using Python, MediaPipe, TensorFlow, and Streamlit.
 `Python` `MediaPipe` `TensorFlow` `Streamlit`
 
-🛡️ **[Intrusion Detection System](https://github.com/zainab-rehmann/intrusion-detection-system)**
-A machine learning project for detecting network intrusions using cybersecurity datasets.
-`Python` `Machine Learning` `Cybersecurity`
-
 🔨 **[ZAAT](https://github.com/zainab-rehmann/zaat)**
 A web platform connecting skilled workers with customers through an easy-to-use marketplace.
 `Django` `Python` `JavaScript`
 
-> 💡 Replace the GitHub links above with your actual repo URLs. That's 6 projects now — since GitHub only pins 6, pick your strongest 6 to pin on your profile.
+
 
 ---
 
