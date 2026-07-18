@@ -65,8 +65,7 @@ A web platform connecting skilled workers with customers through an easy-to-use 
 
 ### 📊 GitHub Statistics
 
-![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab-rehmann&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-rehmann&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainab-rehmann&theme=radical)
 
 ---
