@@ -65,11 +65,6 @@ Building practical web applications with Python, Django & JavaScript.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zainab-rehmann&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-rehmann&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=tokyonight&hide_border=true"/>
 </p>
 
