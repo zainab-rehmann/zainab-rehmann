@@ -51,17 +51,17 @@ An enterprise-grade image processing SaaS application with a modern, professiona
 A machine learning application that converts sign language into text using Python, MediaPipe, TensorFlow, and Streamlit.
 `Python` `MediaPipe` `TensorFlow` `Streamlit`
 
+
 🔨 **[ZAAT](https://github.com/zainab-rehmann/zaat)**
 A web platform connecting skilled workers with customers through an easy-to-use marketplace.
 `Django` `Python` `JavaScript`
 
 
----
-
 ### 📊 GitHub Statistics
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zainab-rehmann&theme=radical)
+![Zainab's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainab-rehmann&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-rehmann&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=zainab-rehmann&theme=radical)
 
 ---
 
