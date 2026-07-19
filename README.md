@@ -56,7 +56,6 @@ A web platform connecting skilled workers with customers through an easy-to-use 
 `Django` `Python` `JavaScript`
 
 
-
 ---
 
 ### 📊 GitHub Statistics
