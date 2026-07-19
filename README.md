@@ -1,81 +1,231 @@
-<h1 align="center">Hi there, I'm Zainab Rehman 👋</h1>
-<h3 align="center">Software Engineering Student | Python • Django • JavaScript Developer</h3>
+<h1 align="center">Hi 👋, I'm Zainab Rehman</h1>
+
+<h3 align="center">
+Aspiring Full-Stack Developer | Software Engineering Student
+</h3>
 
 <p align="center">
-I'm a Software Engineering student at Riphah International University with a passion for building modern web applications and solving real-world problems through technology.
+Building Real-World Web Applications with Python, Django & JavaScript
 </p>
 
-- 🌱 Currently learning **Full-Stack Web Development**
-- 💻 Interested in **Backend Development, Web Development, and AI**
-- 🚀 Building projects that solve real-world problems
-- 🎯 Looking for **Internships, Open Source Contributions, and Freelance Opportunities**
-- 📫 Reach me at: **zainabrehman5602@gmail.com**
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;Software+Engineering+Student;Python+%7C+Django+%7C+JavaScript;Building+Real-World+Projects;Always+Learning+Something+New" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=zainab-rehmann&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+</p>
 
 ---
 
-### 🚀 Tech Stack
+# 👩‍💻 About Me
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Tools**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 Software Engineering Student at **Riphah International University**
+- 🌱 Currently learning **Full-Stack Development** with Python, Django, JavaScript, and Django REST Framework
+- 💡 Passionate about building software that solves real-world problems
+- 🚀 Continuously improving my skills by building practical projects
+- 🤝 Open to **Internships**, **Open Source Contributions**, and **Freelance Opportunities**
+- 📫 Reach me at **zainabrehman5602@gmail.com**
 
 ---
 
-### 📌 Featured Projects
+# 🚀 Tech Stack
 
-🦷 **[BrightSmile Dental Clinic](https://github.com/zainab-rehmann/aurora-smile-co)** — [🔗 Live Demo](https://dentistclinic-kohl.vercel.app/)
-A modern, responsive dental clinic website with appointment booking, doctor profiles, services, and testimonials sections.
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+</p>
+
+### ⚙️ Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,react,mysql,git,github,vscode" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🔨 ZAAT
+
+**A platform connecting skilled workers with customers through an easy-to-use marketplace.**
+
+**Tech Stack**
+
+`Django` `Python` `JavaScript` `MySQL`
+
+📂 Repository
+
+https://github.com/zainab-rehmann/zaat
+
+🌐 Live Demo
+
+Coming Soon
+
+### 📷 Screenshots
+
+> *(Add screenshots here later)*
+
+---
+
+## 🎨 PixelForge Studio
+
+**Enterprise-grade AI image processing SaaS with a modern, responsive interface.**
+
+**Tech Stack**
+
+`React` `JavaScript`
+
+📂 Repository
+
+https://github.com/zainab-rehmann/pixelforge-studio
+
+🌐 Live Demo
+
+https://pixelforge-studio-tan.vercel.app/
+
+### 📷 Screenshots
+
+> *(Add homepage screenshot here later)*
+
+---
+
+## 🔄 Sync Space
+
+**A collaborative workspace application designed for seamless real-time productivity.**
+
+**Tech Stack**
+
+`React` `JavaScript`
+
+📂 Repository
+
+https://github.com/zainab-rehmann/SyncSpace-
+
+🌐 Live Demo
+
+https://sync-space-sage.vercel.app/
+
+### 📷 Screenshots
+
+> *(Add dashboard screenshot here later)*
+
+---
+
+## 🦷 BrightSmile Dental Clinic
+
+**A modern, responsive dental clinic website with appointment booking and elegant UI.**
+
+**Tech Stack**
+
 `HTML` `CSS` `JavaScript`
 
-🔄 **[Sync Space](https://github.com/zainab-rehmann/SyncSpace-)** — [🔗 Live Demo](https://sync-space-sage.vercel.app/)
-A collaborative workspace application built for seamless real-time syncing and productivity.
-`JavaScript` `React`
+📂 Repository
 
-🎨 **[PixelForge Studio](https://github.com/zainab-rehmann/pixelforge-studio)** — [🔗 Live Demo](https://pixelforge-studio-tan.vercel.app/)
-An enterprise-grade image processing SaaS application with a modern, professional UI.
-`JavaScript` `React`
+https://github.com/zainab-rehmann/aurora-smile-co
 
-🤟 **[Sign Language Translator](https://github.com/zainab-rehmann/signspeak-asl)**
-A machine learning application that converts sign language into text using Python, MediaPipe, TensorFlow, and Streamlit.
-`Python` `MediaPipe` `TensorFlow` `Streamlit`
+🌐 Live Demo
 
-🔨 **[ZAAT](https://github.com/zainab-rehmann/zaat)**
-A web platform connecting skilled workers with customers through an easy-to-use marketplace.
-`Django` `Python` `JavaScript`
+https://dentistclinic-kohl.vercel.app/
 
+### 📷 Screenshots
 
-### 📊 GitHub Statistics
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=zainab-rehmann&theme=radical)
+> *(Add homepage screenshot here later)*
 
 ---
 
-### 🌱 Currently Learning
-- Django REST Framework
-- JavaScript (ES6+) & Modern Frontend
+## 🤟 Sign Language Translator
+
+**A machine learning application that converts sign language into text using MediaPipe, TensorFlow, and Streamlit.**
+
+**Tech Stack**
+
+`Python` `TensorFlow` `MediaPipe` `Streamlit`
+
+📂 Repository
+
+https://github.com/zainab-rehmann/signspeak-asl
+
+### 📷 Screenshots
+
+> *(Add prediction interface screenshot here later)*
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zainab-rehmann&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-rehmann&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab-rehmann&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+- Django REST Framework (DRF)
 - REST APIs
+- Authentication & Authorization
+- Modern JavaScript (ES6+)
 - Full-Stack Development
 - System Design
 
 ---
 
-### 📫 Connect With Me
+# 🎯 2026 Goals
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-rehmann)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabrehman5602@gmail.com)
+- 🚀 Complete the ZAAT platform
+- 🌍 Contribute to Open Source Projects
+- 💼 Secure a Software Engineering Internship
+- ⭐ Build Production-Ready Full-Stack Applications
+- 📚 Learn Docker & CI/CD
 
 ---
 
-<p align="center">⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</p>
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:zainabrehman5602@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://github.com/zainab-rehmann">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/zainab-rehmann">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Every project is another step toward becoming the developer I aspire to be."*
+
+</div>
