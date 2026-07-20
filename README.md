@@ -1,15 +1,15 @@
-<h2 align="center">Hi 👋, I'm Zainab Rehman</h2>
+<h1 align="center">Hi 👋, I'm Zainab Rehman</h1>
+
+<h3 align="center">
+Aspiring Full-Stack Developer | Software Engineering Student
+</h3>
 
 <p align="center">
-<b>Aspiring Full-Stack Developer</b> • Software Engineering Student
+Building practical, scalable, and user-friendly applications while continuously learning modern technologies.
 </p>
 
 <p align="center">
-Building practical web applications with Python, Django & JavaScript.
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=zainab-rehmann&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=zainab-rehmann&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
@@ -17,17 +17,19 @@ Building practical web applications with Python, Django & JavaScript.
 ## 👩‍💻 About Me
 
 - 🎓 Software Engineering Student at **Riphah International University**
+- 🏆 **CGPA:** 4.00 / 4.00
+- 📚 Intermediate (Pre-Engineering) — **Punjab College, Sahiwal (91%)**
 - 🌱 Currently learning **Full-Stack Development**, **Django REST Framework**, and **Modern JavaScript**
-- 💡 Passionate about building software that solves real-world problems
-- 🚀 Learning through hands-on projects and continuous improvement
-- 🤝 Open to **Internships**, **Open Source Contributions**, and **Freelance Opportunities**
+- 💡 Passionate about solving real-world problems through technology
+- 🚀 Building practical projects to strengthen my development skills
+- 🤝 Open to **Internships**, **Open Source**, and **Freelance Opportunities**
 - 📫 **Email:** **zainabrehman5602@gmail.com**
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -37,35 +39,54 @@ Building practical web applications with Python, Django & JavaScript.
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks & Tools
+### ⚙️ Frameworks & Libraries
 
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Database
+
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
 ## ⭐ Featured Projects
 
-| Project | Description | Tech Stack | Repository | Demo |
-|---------|-------------|------------|------------|------|
-| 🔨 **ZAAT** | Skilled worker marketplace connecting customers with verified professionals. | `Django` `Python` `JavaScript` `MySQL` | [Repository](https://github.com/zainab-rehmann/zaat) | 🚧 Coming Soon |
-| 🤟 **Sign Language Translator** | Machine learning application that converts sign language into text using MediaPipe and TensorFlow. | `Python` `TensorFlow` `MediaPipe` `Streamlit` | [Repository](https://github.com/zainab-rehmann/signspeak-asl) | — |
-| 🎨 **PixelForge Studio** | Enterprise-grade AI image processing SaaS with a modern responsive interface. | `React` `JavaScript` | [Repository](https://github.com/zainab-rehmann/pixelforge-studio) | [Live Demo](https://pixelforge-studio-tan.vercel.app/) |
-| 🔄 **Sync Space** | Real-time collaborative workspace designed for productivity and teamwork. | `React` `JavaScript` | [Repository](https://github.com/zainab-rehmann/SyncSpace-) | [Live Demo](https://sync-space-sage.vercel.app/) |
-| 🦷 **BrightSmile Dental Clinic** | Responsive dental clinic website with appointment booking and modern UI. | `HTML` `CSS` `JavaScript` | [Repository](https://github.com/zainab-rehmann/aurora-smile-co) | [Live Demo](https://dentistclinic-kohl.vercel.app/) |
+| Project | Description | Tech Stack | Repository | Live Demo |
+|---------|-------------|------------|------------|-----------|
+| 🔨 **ZAAT** | Skilled worker marketplace connecting customers with verified professionals. | Django • Python • MySQL • JavaScript | [Repository](https://github.com/zainab-rehmann/zaat) | 🚧 Coming Soon |
+| 🤟 **Sign Language Translator** | Machine Learning application that converts sign language into text using MediaPipe & TensorFlow. | Python • TensorFlow • MediaPipe • Streamlit | [Repository](https://github.com/zainab-rehmann/signspeak-asl) | — |
+| 🎨 **PixelForge Studio** | Enterprise-grade AI image processing SaaS application. | React • JavaScript | [Repository](https://github.com/zainab-rehmann/pixelforge-studio) | [Live Demo](https://pixelforge-studio-tan.vercel.app/) |
+| 🔄 **Sync Space** | Real-time collaborative workspace application. | React • JavaScript | [Repository](https://github.com/zainab-rehmann/SyncSpace-) | [Live Demo](https://sync-space-sage.vercel.app/) |
+| 🦷 **BrightSmile Dental Clinic** | Responsive dental clinic website with appointment booking. | HTML • CSS • JavaScript | [Repository](https://github.com/zainab-rehmann/aurora-smile-co) | [Live Demo](https://dentistclinic-kohl.vercel.app/) |
+| 🚗 **C++ Car Racing Game** | Desktop game built using C++ demonstrating OOP and game logic. | C++ | 🚧 Coming Soon | 🎥 Gameplay Video |
+
+
 
 ---
 
-## 📊 GitHub Statistics
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
@@ -73,39 +94,43 @@ Building practical web applications with Python, Django & JavaScript.
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab-rehmann&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab-rehmann&theme=github-dark&hide_border=true"/>
 </p>
 
----
+
 
 ## 🎯 Current Focus
 
 - 🚀 Building **ZAAT**
-- 🌱 Learning **Django REST Framework (DRF)**
-- 💻 Strengthening **Full-Stack Development** skills
+- 🌱 Learning **Django REST Framework**
+- 💻 Strengthening **Full-Stack Development**
 - 🤖 Exploring **AI-powered Web Applications**
+- 🎮 Preparing my **C++ Car Racing Game** repository
 
 ---
 
 ## 📫 Connect With Me
 
 <p>
-<a href="mailto:zainabrehman5602@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 <a href="https://github.com/zainab-rehmann">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/zainab-rehmann">
+<a href="https://linkedin.com/in/zainab-rehmann">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="mailto:zainabrehman5602@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Thanks for visiting my profile!</b><br>
-<i>Learning, building, and improving one project at a time.</i>
+
+⭐ If you like my work, consider following my GitHub profile!
+
 </p>
