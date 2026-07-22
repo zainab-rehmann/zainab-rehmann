@@ -12,8 +12,7 @@ Building practical, scalable, and user-friendly applications while continuously 
 <img src="https://komarev.com/ghpvc/?username=zainab-rehmann&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
----
----
+<br>
 
 ## 👩‍💻 About Me
 
@@ -24,37 +23,49 @@ Building practical, scalable, and user-friendly applications while continuously 
 - 💡 Passionate about solving real-world problems through technology
 - 🚀 Building practical projects to strengthen my development skills
 - 🤝 Open to **Internships**, **Open Source**, and **Freelance Opportunities**
-- 📫 **Email:** **[zainabrehman5602@gmail.com](mailto:zainabrehman5602@gmail.com)**
+- 📫 **Email:** [zainabrehman5602@gmail.com](mailto:zainabrehman5602@gmail.com)
 
----
+<br>
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### ⚙️ Frameworks & Libraries
+**Frameworks & Libraries**
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,react,tensorflow,opencv" />
+<p align="left">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-### 🗄️ Database
+**Database**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🛠️ Tools
+**Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,docker" />
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
----
+<br>
 
 ## ⭐ Featured Projects
 
@@ -67,15 +78,13 @@ Building practical, scalable, and user-friendly applications while continuously 
 | 🦷 **BrightSmile Dental Clinic** | Responsive dental clinic website with appointment booking. | HTML • CSS • JavaScript | [Repository](https://github.com/zainab-rehmann/aurora-smile-co) | [Live Demo](https://dentistclinic-kohl.vercel.app/) |
 | 🏎️ **RoadRush** | Feature-rich 2D console car racing game demonstrating Object-Oriented Programming, collision detection, file handling, sound effects, and Windows Console API. | C++ • OOP • Windows API | [Repository](https://github.com/zainab-rehmann/RoadRush-CPP) | 📸 Screenshots |
 
----
+<br>
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=transparent&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=zainab-rehmann&theme=transparent&hide_border=true&cache_seconds=0" />
 </p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -83,7 +92,7 @@ Building practical, scalable, and user-friendly applications while continuously 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zainab-rehmann&theme=github-compact&hide_border=true" />
 </p>
 
----
+<br>
 
 ## 🎯 Current Focus
 
@@ -93,26 +102,22 @@ Building practical, scalable, and user-friendly applications while continuously 
 - 🤖 Exploring **AI-powered Web Applications**
 - 🏎️ Continuously improving **RoadRush**
 
----
+<br>
 
 ## 📫 Connect With Me
 
-<p>
-
+<p align="left">
 <a href="https://github.com/zainab-rehmann">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/zainab-rehmann/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:zainabrehman5602@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 </p>
 
----
+<br>
 
-⭐ If you like my work, consider following my GitHub profile!
+<p align="center">⭐ If you like my work, consider following my GitHub profile!</p>
