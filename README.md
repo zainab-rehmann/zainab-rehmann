@@ -8,10 +8,6 @@ Aspiring Full-Stack Developer | Software Engineering Student
 Building practical, scalable, and user-friendly applications while continuously learning modern technologies.
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=zainab-rehmann&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
 <br>
 
 ## 👩‍💻 About Me
